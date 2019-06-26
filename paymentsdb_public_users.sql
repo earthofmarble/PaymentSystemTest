@@ -1,0 +1,4 @@
+INSERT INTO public.users (firstname_user, secondname_user, login_user, password_user, isadmin_user, id_user) VALUES ('Женя', 'Гончарик', 'zhenya11', 'qwerty12345', false, 2);
+INSERT INTO public.users (firstname_user, secondname_user, login_user, password_user, isadmin_user, id_user) VALUES ('Админ', 'Админ', 'admin', 'root', true, 3);
+INSERT INTO public.users (firstname_user, secondname_user, login_user, password_user, isadmin_user, id_user) VALUES ('Вадим', 'Денисик', 'vadim222', '1', false, 4);
+INSERT INTO public.users (firstname_user, secondname_user, login_user, password_user, isadmin_user, id_user) VALUES ('Женя', 'Гончарик', 'zhenya11', 'qwerty12345', false, 17);

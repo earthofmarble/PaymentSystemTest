@@ -1,0 +1,42 @@
+2019-06-26 22:57:02 INFO  Version:45 - HHH000412: Hibernate Core {5.2.2.Final}
+2019-06-26 22:57:02 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-06-26 22:57:02 INFO  Environment:318 - HHH000021: Bytecode provider name : javassist
+2019-06-26 22:57:02 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-06-26 22:57:02 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-26 22:57:02 INFO  pooling:126 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/paymentsdb]
+2019-06-26 22:57:02 INFO  pooling:135 - HHH10001001: Connection properties: {password=****, user=postgres}
+2019-06-26 22:57:02 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2019-06-26 22:57:02 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-06-26 22:57:03 INFO  Dialect:153 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2019-06-26 22:57:03 INFO  LobCreatorBuilderImpl:124 - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2019-06-26 22:57:03 INFO  BasicTypeRegistry:148 - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@47dd778
+2019-06-26 22:57:03 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2019-06-26 22:57:04 INFO  DefaultDeleteEventListener:191 - HHH000114: Handling transient entity in delete processing
+2019-06-26 22:58:10 INFO  Version:45 - HHH000412: Hibernate Core {5.2.2.Final}
+2019-06-26 22:58:10 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-06-26 22:58:10 INFO  Environment:318 - HHH000021: Bytecode provider name : javassist
+2019-06-26 22:58:10 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-06-26 22:58:11 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-26 22:58:11 INFO  pooling:126 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/paymentsdb]
+2019-06-26 22:58:11 INFO  pooling:135 - HHH10001001: Connection properties: {password=****, user=postgres}
+2019-06-26 22:58:11 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2019-06-26 22:58:11 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-06-26 22:58:11 INFO  Dialect:153 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2019-06-26 22:58:11 INFO  LobCreatorBuilderImpl:124 - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2019-06-26 22:58:11 INFO  BasicTypeRegistry:148 - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@47dd778
+2019-06-26 22:58:11 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2019-06-26 22:58:12 INFO  DefaultDeleteEventListener:191 - HHH000114: Handling transient entity in delete processing
+2019-06-26 23:00:41 INFO  Version:45 - HHH000412: Hibernate Core {5.2.2.Final}
+2019-06-26 23:00:41 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-06-26 23:00:41 INFO  Environment:318 - HHH000021: Bytecode provider name : javassist
+2019-06-26 23:00:42 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-06-26 23:00:42 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-06-26 23:00:42 INFO  pooling:126 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/paymentsdb]
+2019-06-26 23:00:42 INFO  pooling:135 - HHH10001001: Connection properties: {password=****, user=postgres}
+2019-06-26 23:00:42 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2019-06-26 23:00:42 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-06-26 23:00:42 INFO  Dialect:153 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2019-06-26 23:00:42 INFO  LobCreatorBuilderImpl:124 - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2019-06-26 23:00:42 INFO  BasicTypeRegistry:148 - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@47dd778
+2019-06-26 23:00:43 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2019-06-26 23:00:43 INFO  DefaultDeleteEventListener:191 - HHH000114: Handling transient entity in delete processing
