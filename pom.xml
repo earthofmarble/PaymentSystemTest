@@ -61,11 +61,13 @@
             <version>42.2.5</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>3.2.8.RELEASE</version>
+            <version>5.1.7.RELEASE</version>
         </dependency>
+
         <dependency> <!--позволяет Java разработчикам ставить в соответствие Java классы и XML представления -->
             <groupId>javax.xml.bind</groupId>
             <artifactId>jaxb-api</artifactId>
