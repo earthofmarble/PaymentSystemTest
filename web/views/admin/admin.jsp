@@ -12,28 +12,29 @@
 <html>
 <head>
     <title>Login page</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
 
-<body>
-<div>
+<body class="w3-light-grey">
+<div class="w3-container w3-blue-grey w3-opacity w3-right-align">
     <h1>ADMIN</h1>
 </div>
 <div>
-    <form action="views/admin/addUser.jsp" method="post">
+<div  style="margin: 10%">
+    <form action="views/admin/addUser.jsp"  method="post">
         <input type="hidden" name="userAccounts" value="${userAccounts}">
         <input type="submit" value="Добавить пользователя" style="float:left">
-
     </form>
 
 </div>
-<div>
-    <form action="views/admin/addAccount.jsp" method="post">
+<div  style="margin: 10%">
+    <form action="views/admin/addAccount.jsp"  method="post">
         <input type="hidden" name="userAccounts" value="${userAccounts}">
         <input type="submit" value="Добавить счёт" style="float:left">
     </form>
 
 </div>
-<div>
+<div style="margin: 10%">
     <form action="views/admin/listUsers.jsp" method="post">
         <input type="hidden" name="allUsers" value="${allUsers}">
         <input type="submit" value="Список пользователей" style="float:left">
@@ -45,7 +46,8 @@
         request.removeAttribute("message");
     }
 %>
-<div>
+
+<div style="margin: 10%" >
     <form action="views/admin/listAccounts.jsp" method="post">
         <input type="hidden" name="userAccounts" value="${userAccounts}">
         <input type="submit" value="Список счетов" style="float:left">
@@ -57,7 +59,7 @@
         <input type="submit" value="ВЫХОД ИЗ АККАУНТА" style="float:left">
     </form>
 </div>
-</div>
+</div></div>
 
 </body>
 </html>
